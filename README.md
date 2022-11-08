@@ -1,5 +1,33 @@
 # Astro Toolbox Template  
 
+```
+Site Created
+
+Admin URL: https://app.netlify.com/sites/stalwart-tanuki-4bf860
+URL:       https://stalwart-tanuki-4bf860.netlify.app
+Site ID:   24a17722-5973-4a32-86a5-22ac3b597eb8
+Repo URL:  https://github.com/TMorgan99/netlify-templates-astro-toolbox
+? Do you want to clone the repository? Yes
+
+🚀 Repository cloned successfully. You can find it under the netlify-templates-astro-toolbox folder
+
+```
+
+`netlify init`
+```
+Directory Linked
+
+Admin url: https://app.netlify.com/sites/stalwart-tanuki-4bf860
+Site url:  https://stalwart-tanuki-4bf860.netlify.app
+
+You can now run other `netlify` cli commands in this directory
+
+
+Success
+This site "stalwart-tanuki-4bf860" is configured to automatically deploy via https://github.com/TMorgan99/netlify-templates-astro-toolbox
+```
+
+
 [![astro](https://user-images.githubusercontent.com/3611928/167888733-9bf21eda-d051-46f3-9184-12b14e21a10a.png)](https://ntl.fyi/3LZGn73)
 
 This is an [Astro](https://astro.build) project bootstrapped from the Astro CLI. It is a reference on how to integrate commonly used features within [Netlify](https://netlify.com) for Astro. 
